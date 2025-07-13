@@ -1,4 +1,4 @@
 # Internship
 Infotact Internship projects
 
-**Dataset:**  https://drive.google.com/drive/u/0/folders/1sXxBxvZXSZyzKoLDO3J-JBaYxyAagnWx
+**Dashboard Link** https://public.tableau.com/app/profile/bhavani.shankar.gampa1877/viz/SalesDashboard_17523478541960/SalesDashboard
